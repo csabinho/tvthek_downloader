@@ -1,2 +1,2 @@
 # tvthek_downloader
-My TVthek Downloader
+My TVthek download script generator
